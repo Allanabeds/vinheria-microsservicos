@@ -11,7 +11,7 @@ Microsserviços
 | servico-pedidos | Gestão de pedidos, fornecedores e estoque |
 | servico-producao | Registro de colheitas, fermentação e armazenamento |
 
-Tecnologias Utilizadas
+ Tecs Utilizadas
 - Docker para conteinerização
 - Jenkins para CI/CD
 - Wireshark para análise de segurança
